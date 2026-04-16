@@ -25,3 +25,7 @@ This skill helps ChatGPT:
 - Create a React dashboard for sales analytics
 - Redesign this messy pricing section into something modern
 - Make this UI feel more editorial and high-end
+
+## Author
+
+Shahzaib Anwar
