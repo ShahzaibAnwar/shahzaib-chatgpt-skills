@@ -13,11 +13,11 @@ This skill helps ChatGPT:
 
 ## Included files
 
-- [`skill.zip`](./frontend-developer-skill.zip) — packaged skill ready to upload into ChatGPT
+- [`skill.zip`](./skill.zip) — packaged skill ready to upload into ChatGPT
 
 ## Download
 
-[Download the skill](./frontend-developer-skill.zip)
+[Download the skill](./skill.zip)
 
 ## Example prompts
 
